@@ -1,3 +1,10 @@
+#Ques- Write a Python program to import "crop.csv" and do the following task-
+#1.) Draw scatter plot- We have data on the yield and rainfall for different crops in  regions)
+#2.) Draw a histogram to visualize the distribution of customer ages.
+#3.) Draw a line plot to visualize the trend in crop yield for each crop.
+
+
+
 class ToDoList:
     def _init_(self):
         self.tasks = []
